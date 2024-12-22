@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mireyaproject/static/css/main.37cf7be5.css",
+    "main.js": "/mireyaproject/static/js/main.320b12a4.js",
+    "static/js/453.c4523cc0.chunk.js": "/mireyaproject/static/js/453.c4523cc0.chunk.js",
+    "index.html": "/mireyaproject/index.html",
+    "main.37cf7be5.css.map": "/mireyaproject/static/css/main.37cf7be5.css.map",
+    "main.320b12a4.js.map": "/mireyaproject/static/js/main.320b12a4.js.map",
+    "453.c4523cc0.chunk.js.map": "/mireyaproject/static/js/453.c4523cc0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37cf7be5.css",
+    "static/js/main.320b12a4.js"
+  ]
+}
